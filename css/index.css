@@ -1,0 +1,31 @@
+body
+{
+   background-image: url('../images/background.jpg');
+   background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn
+{
+	margin-right: 10px;
+}
+.heading
+{
+   font-family: 'Bilbo Swash Caps';font-size: 22px;
+}
+.main
+{
+	
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 426px;
+}
+.modal-footer
+{
+	justify-content: center;
+}
+.create-post-btn
+{
+    text-align: center;
+}
